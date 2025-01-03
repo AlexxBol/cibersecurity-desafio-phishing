@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./captura credenciais_two_points.JPG "Optional title")
+![Alt text](./captura_credenciais_two_points.JPG "Optional title")
